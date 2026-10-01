@@ -1,0 +1,3 @@
+posicion,ref_base,mue_base,codon_ref,codon_mue,aa_ref,aa_mue,tipo
+5,C,A,GCC,GCA,A,A,Silenciosa
+19,G,A,TGA,TAA,STOP,STOP,Silenciosa
